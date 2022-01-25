@@ -21,8 +21,8 @@ PanoramicAPIFuncs: Code to interface with Panoramic EM-Suite API, to run RCWA an
 
 PhaseLift: Solver for PhaseLift.
 
-Reflectivityapp: Outputs from App for 3 masks referenced in "Film models"
+Reflectivityapp: Outputs from App for 3 masks referenced in "Film models".
 
-Scattering: Fresnel transfer functions and near-field double-scattering approximation 
+Scattering: Fresnel transfer functions and near-field double-scattering approximation .
 	
-Utilities: Misc functions
+Utilities: Misc functions.
