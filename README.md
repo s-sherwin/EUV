@@ -1,8 +1,7 @@
 # EUV
-Code for modeling, designing, and measuring EUV photomasks
+Code for modeling, designing, and measuring EUV photomasks.
 
-Apps
-	Standalone MATLAB applications for reflectometry, scatterometry, and Zernike phase contrast imaging. 
+Apps \n\t Standalone MATLAB applications for reflectometry, scatterometry, and Zernike phase contrast imaging. 
 
 Diffraction
 	Reciprocal-space coordinate transforms; square-wave diffraction. 
